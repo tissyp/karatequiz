@@ -3,6 +3,9 @@
     "name": "udg_karate",
     "slug": "snack-879545df-478c-4f51-a3eb-779d111699c8",
     "version": "1.0.0",
+    "experiments": {
+      "baseUrl": "/karatequiz"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -24,9 +27,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "experiments": {
-      "baseUrl": "/karatequiz"
     }
   }
 }
