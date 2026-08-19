@@ -24,9 +24,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
     "experiments": {
-      "baseUrl": "/LA-TUA-REPO"
+      "baseUrl": "/karatequiz"
     }
   }
 }
